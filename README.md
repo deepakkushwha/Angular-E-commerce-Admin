@@ -1,6 +1,6 @@
 # E-commerce-Admin-
 <p align="center">
-  <span style="color: red"> ***This E-commerce is Admin Panel Project***</span>
+***This E-commerce is Admin Panel Project*** '#f03c15'
   </p>
   
 <br /><br /><p align="center">
