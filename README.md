@@ -1,6 +1,6 @@
 # E-commerce-Admin-
 <p align="center">
-![#f03c15]***This E-commerce is Admin Panel Project***
+  https://placehold.it/150/ffffff/ff0000?text=This_E-commerce is Admin Panel Project
   </p>
   
 <br /><br /><p align="center">
