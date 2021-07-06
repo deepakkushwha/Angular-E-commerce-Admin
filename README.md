@@ -24,7 +24,7 @@
 ![d1](https://user-images.githubusercontent.com/75658978/124639282-9c6a8d00-dea9-11eb-8e46-e89795c923fd.png)
 ![d2](https://user-images.githubusercontent.com/75658978/124639289-9e345080-dea9-11eb-9490-1419833187e9.png)
 
-<br /><br /><p align="center">
+<br /><br /><p align="center>
 ***Add_to_cart***<p>
 <br />
 ![Add-to-cart](https://user-images.githubusercontent.com/75658978/124639330-aa201280-dea9-11eb-989b-ca234a01a67b.png)
