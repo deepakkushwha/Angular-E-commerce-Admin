@@ -1,6 +1,6 @@
 # E-commerce-Admin-
 <p align="center">
-***This E-commerce is Admin Panel Project*** '#f03c15'
+![#f03c15]***This E-commerce is Admin Panel Project***
   </p>
   
 <br /><br /><p align="center">
