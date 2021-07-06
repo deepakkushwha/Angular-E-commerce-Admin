@@ -12,16 +12,14 @@
 
 <br /><br />
 <p align="center">
-***Category Product***
-  </p>
+***Category Product***</p>
 <br />
 ![c1](https://user-images.githubusercontent.com/75658978/124639214-85c43600-dea9-11eb-9204-ba7c88c90d0e.png)
 ![c2](https://user-images.githubusercontent.com/75658978/124639219-88269000-dea9-11eb-952a-0a78adc00645.png)
 
 <br /><br />
 <p align="center">
-***description Page***
-  </p>
+***description Page***</p>
 <br />
 ![d1](https://user-images.githubusercontent.com/75658978/124639282-9c6a8d00-dea9-11eb-8e46-e89795c923fd.png)
 ![d2](https://user-images.githubusercontent.com/75658978/124639289-9e345080-dea9-11eb-9490-1419833187e9.png)
