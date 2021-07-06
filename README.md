@@ -3,7 +3,7 @@
 ***This E-commerce is Admin Panel Project***
 
 ***All Product***
-<img src="https://user-images.githubusercontent.com/75658978/124638831-0f273880-dea9-11eb-8011-def0bbf31fe0.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="800" height="800" />
+<img src="https://user-images.githubusercontent.com/75658978/124638831-0f273880-dea9-11eb-8011-def0bbf31fe0.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="1000" height="1000" />
 
 ![2](https://user-images.githubusercontent.com/75658978/124638850-13ebec80-dea9-11eb-8dec-740fb6091555.png)
 
