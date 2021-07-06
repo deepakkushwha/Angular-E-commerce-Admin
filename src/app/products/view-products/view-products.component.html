@@ -1,0 +1,14 @@
+
+<div class="card mt-4 mb-4">
+  <img class="card-img-top " src="{{productDetails.productImg}}" alt="" id="Img_Size">
+  <div class="card-body">
+    <h3 class="card-title">{{ productDetails.productName }}</h3>
+    <a href="/products/update-product/{{productDetails.id}}">Update Product</a> | 
+    <a href="/products/delete-product/{{productDetails.id}}">Delete Product</a>
+    <h4>${{ productDetails.price }}</h4>
+    <p class="card-text">{{ productDetails.description }}</p>
+    <span class="text-warning">{{ productDetails.rating }} stars</span>
+    
+  </div>
+</div>
+<!-- /.card -->

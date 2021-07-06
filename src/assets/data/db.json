@@ -1,0 +1,273 @@
+{
+  "products": [
+    {
+      "id": 8,
+      "categoryId": 2,
+      "productName": "BENSTOKE Men's Cotton Regular Kurta ",
+      "description": " Machine Was",
+      "rating": 2.2,
+      "price": 499,
+      "productImg": "http://localhost:4200/assets/image/m3.jpg",
+      "isAvailable": true,
+      "color": "yellow",
+      "reviews": 50
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "productName": "(Renewed) HP Elitebook Laptop 640G1 Intel Core i5 - 4300M Processor, 8 GB Ram & 512 GB SSD, Win10, 14.1 inches, Optical Drive Notebook Computer",
+      "description": "ntel Core i5 - 4300M Processor, 8 GB Ram & 512 GB SSD, Win10, 14.1 inches, Optical Drive Notebook Computer",
+      "rating": 3,
+      "price": "31,999",
+      "productImg": "http://localhost:4200/assets/image/2.jpg",
+      "isAvailable": true,
+      "color": "red",
+      "reviews": 10
+    },
+    {
+      "id": 3,
+      "categoryId": 1,
+      "productName": "Mi 100 cm (40 Inches) Full HD Android Smart LED TV 4A|L40M5-5AIN (Black)",
+      "description": "Supported Internet:- InchesNetflix, Zee5, Sony Liv, Amazon Prime Video, SunNXT, Lattu Kids, ErosNow, YouTube, Hungama Play, Disney+ Hotst ",
+      "rating": "3",
+      "price": "22,999",
+      "productImg": "http://localhost:4200/assets/image/3.jpg",
+      "isAvailable": 12,
+      "color": "White"
+    },
+    {
+      "id": 9,
+      "categoryId": 3,
+      "productName": "ANNI DESIGNER Women's Cotton Straight Kurta with Palazzo Set",
+      "description": " Product Color May Slightly Vary Due To Photographic Lighting Sources Or Your Monitor Settings",
+      "rating": 3.9,
+      "price": 599,
+      "productImg": "http://localhost:4200/assets/image/w1.jpg",
+      "isAvailable": true,
+      "color": "Sky-blue",
+      "reviews": 30
+    },
+    {
+      "id": 5,
+      "categoryId": 1,
+      "productName": "Lenovo Yoga Smart Tablet with The Google Assistant 25.65 cm (10.1 inch, 4GB, 64GB, WiFi + 4G LTE), Iron Grey",
+      "description": "Android Pie v9.0 operating system with Qualcomm Snapdragon 439 (4 x A53 @ 2.0GHz, 4 x A53 @ 1.45GHz) octa core processor, 4GB RAM, 64GB internal memory expandable up to 64GB, Single Nano SIM",
+      "rating": 2,
+      "price": "20,999",
+      "productImg": "http://localhost:4200/assets/image/5.jpg",
+      "isAvailable": true,
+      "color": "blue",
+      "reviews": 10
+    },
+    {
+      "id": 6,
+      "categoryId": 2,
+      "productName": "Men's Biker Jacket ",
+      "description": "Only Leather Retail is Authorized to sell leather Retail Product . Other Seller May send you wrong Product/Low Quality product .",
+      "rating": 3.9,
+      "price": 1599,
+      "productImg": "http://localhost:4200/assets/image/m1.jpg",
+      "isAvailable": true,
+      "color": "black",
+      "reviews": 10
+    },
+    {
+      "id": 7,
+      "categoryId": 2,
+      "productName": "EYEBOGLER Men's T-Shirt ",
+      "description": " ‎ Eyebogler, Seven Rocks International, Cheema Chowk, Ludhiana. ",
+      "rating": 3.2,
+      "price": 499,
+      "productImg": "http://localhost:4200/assets/image/m2.jpg",
+      "isAvailable": true,
+      "color": "blue",
+      "reviews": 10
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "productName": "Canon EOS M50 24.1MP Mirrorless Camera (Black) with EF-M 15-45 is STM Lens",
+      "description": "Image Processor: DIGIC 8 with 143 autofocus points (important for speed and accuracy of autofocus and burst photography)",
+      "rating": 3,
+      "price": "98,989.00",
+      "productImg": "http://localhost:4200/assets/image/4.jpg",
+      "isAvailable": true,
+      "color": "Black",
+      "reviews": 10
+    },
+    {
+      "id": 1,
+      "categoryId": 1,
+      "productName": "New Apple iPhone 11 (64GB) - Green",
+      "description": "Dual-camera system with 12MP Ultra Wide and Wide cameras; Night mode, Portrait mode, and 4K video up to 60fps",
+      "rating": "4.5",
+      "price": "52,999",
+      "productImg": "http://localhost:4200/assets/image/1.jpg",
+      "isAvailable": 1,
+      "color": "red"
+    },
+    {
+      "id": 14,
+      "categoryId": 4,
+      "productName": "Kenstar KCLCGDGY080FMH-ETA Desert Air Cooler - 80 Litres, Grey",
+      "description": "Today's lifestyle is the perfect blend of work, life, play, party, friends & family. Understanding this emerging lifestyle, we strive to simplify and enrich the lives of our customers with our contemporary range of air coolers, water heaters, and home appliances. So that you reduce monotony, give each day a fresh start and 'Live the Ken Lifestyle'.",
+      "rating": 5,
+      "price": "3,499",
+      "productImg": "http://localhost:4200/assets/image/h2.jpg",
+      "isAvailable": true,
+      "color": "Sliver",
+      "reviews": 16
+    },
+    {
+      "id": 10,
+      "categoryId": 3,
+      "productName": "Perfectblue Women's cotton Silk Saree With Blouse Piece New",
+      "description": "New Designer Cotton Silk Saree Collection. Weaving Technique For Yarn is Machine. The master weavers of cotton sarees use the looms.",
+      "rating": 5,
+      "price": 369,
+      "productImg": "http://localhost:4200/assets/image/w2.jpg",
+      "isAvailable": true,
+      "color": "green",
+      "reviews": 16
+    },
+    {
+      "id": 11,
+      "categoryId": 3,
+      "productName": "ILLI LONDON Women's TOP",
+      "description": "Spruce up your wardrobe with this stylish TOP from ILLI LONDON available on Amazon. This Top is perfect for a day out with friends or a night of get-together with family or a party.",
+      "rating": 5,
+      "price": 499,
+      "productImg": "http://localhost:4200/assets/image/w3.jpg",
+      "isAvailable": true,
+      "color": "green",
+      "reviews": 16
+    },
+    {
+      "id": 12,
+      "categoryId": 3,
+      "productName": "Aahwan Women's Solid Wraparound Self-Tie Crop Top (KV-140)",
+      "description": "Aahwan women's wear, crafted with distinctive cuts and vibrant hues to redefine your wardrobe. Comfy, classy, stylish, or sassy, be it any style aahwan offers all kinds of tops for women and girls. Steal the spotlight and explore the world while dressed With an awe-inspiring look with aahwan.",
+      "rating": 5,
+      "price": 499,
+      "productImg": "http://localhost:4200/assets/image/w4.jpg",
+      "isAvailable": true,
+      "color": "brown",
+      "reviews": 16
+    },
+    {
+      "id": 13,
+      "categoryId": 4,
+      "productName": "Lezino 1 Seater Rocker Recliner Chair in Premium Brown Suede Fabric (Manual Rocker Recliner, Brown)",
+      "description": "Frame Material : The sturdy frame with durable steel mechanisms ensures 200kg weight capacity",
+      "rating": 5,
+      "price": "25,999",
+      "productImg": "http://localhost:4200/assets/image/h1.jpg",
+      "isAvailable": true,
+      "color": "brown",
+      "reviews": 16
+    },
+    {
+      "id": 18,
+      "categoryId": 5,
+      "productName": "WireScorts Bot Robot Toy (Multicolor)",
+      "description": " WireScorts Robot is made of quality material, safe, simple and easy to use. Absolutely Safe for your Kids as it is Non-Toxic and goes through product safety certification inspection... buy once and enjoy for years!",
+      "rating": 5,
+      "price": "649",
+      "productImg": "http://localhost:4200/assets/image/t1.jpg",
+      "isAvailable": true,
+      "color": "yellow",
+      "reviews": 16
+    },
+    {
+      "id": 15,
+      "categoryId": 4,
+      "productName": "iBELL DELUXE Tower Fan with 25 Feet Air Delivery, 4 Way Air Flow, High Speed,Anti Rust Body (White)",
+      "description": " Understanding this emerging lifestyle, we strive to simplify and enrich the lives of our customers with our contemporary range of air coolers, water heaters, and home appliances. So that you reduce monotony, give each day a fresh start and 'Live the Ken Lifestyle'.",
+      "rating": 5,
+      "price": "3,109",
+      "productImg": "http://localhost:4200/assets/image/h3.jpg",
+      "isAvailable": true,
+      "color": "white",
+      "reviews": 16
+    },
+    {
+      "id": 19,
+      "categoryId": 5,
+      "productName": "SUPER TOY 3 in 1 Locomotive Engine Train Puzzle Assembly Block Mind Trick Toy for Kids",
+      "description": "Pre School Learning, Mind Trick Toy, Birthday Gift, Indoor/Outdoor Game etc",
+      "rating": 5,
+      "price": "285",
+      "productImg": "http://localhost:4200/assets/image/t2.jpg",
+      "isAvailable": true,
+      "color": "Sliver",
+      "reviews": 16
+    },
+    {
+      "id": 17,
+      "categoryId": 4,
+      "productName": "Kenstar KCLCGDGY080FMH-ETA DesertDECORVAIZ Wooden Floor Lamp, Brown, Pack of 1 Air Cooler - 80 Litres, Grey",
+      "description": "Today's lifestyle is the perfect blend of work, life, play, party, friends & family. Understanding this emerging lifestyle, we strive to simplify and enrich the lives of our customers with our contemporary range of air coolers, water heaters, and home appliances. So that you reduce monotony, give each day a fresh start and 'Live the Ken Lifestyle'.",
+      "rating": 5,
+      "price": "1,195",
+      "productImg": "http://localhost:4200/assets/image/h5.jpg",
+      "isAvailable": true,
+      "color": "Sliver",
+      "reviews": 16
+    },
+    {
+      "id": 19,
+      "categoryId": 5,
+      "productName": "SUPER TOY 3 in 1 Locomotive Engine Train Puzzle Assembly Block Mind Trick Toy for Kids",
+      "description": "Pre School Learning, Mind Trick Toy, Birthday Gift, Indoor/Outdoor Game etc",
+      "rating": 5,
+      "price": "285",
+      "productImg": "http://localhost:4200/assets/image/t2.jpg",
+      "isAvailable": true,
+      "color": "Sliver",
+      "reviews": 16
+    },
+    {
+      "categoryId": "1",
+      "productName": "Cosmic Byte C1070T Interstellar Wired Gamepad for PC/PS3/Android support for Windows XP/7/8/10, Rubberized Texture, Drivers",
+      "description": "The controller is compatible with games running with Xinput or Dinput Mode. The controller may not vibrate with some games, as the game may not support vibration\nSupports Windows XP, 7, 8, 8.1, 10 and above",
+      "rating": "",
+      "price": "1,600",
+      "productImg": "http://localhost:4200/assets/image/6.jpg",
+      "isAvailable": 1,
+      "color": "Green",
+      "id": 21
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Electronics"
+    },
+    {
+      "id": 2,
+      "categoryName": "men"
+    },
+    {
+      "id": 3,
+      "categoryName": "Women"
+    },
+    {
+      "id": 4,
+      "categoryName": "Home & Furniture"
+    },
+    {
+      "id": 5,
+      "categoryName": "Baby & kids"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
