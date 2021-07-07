@@ -37,8 +37,10 @@
 ![update](https://user-images.githubusercontent.com/75658978/124639360-b1472080-dea9-11eb-94f3-0a7bf8d39bfe.png)
 
 <br />
-## Video Of Application 
+
+<h1 align="center">Video Of Application
 
 <a href="https://youtu.be/lIQUD-kU6dA">
-<img align="center" src="https://user-images.githubusercontent.com/75658978/124719690-096f3880-df25-11eb-9aa8-26babc51115b.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="500" />
+<img  src="https://user-images.githubusercontent.com/75658978/124719690-096f3880-df25-11eb-9aa8-26babc51115b.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="800" height="400" />
 </a>
+ </h1>
