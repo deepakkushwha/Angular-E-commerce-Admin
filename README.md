@@ -37,9 +37,6 @@
 ![update](https://user-images.githubusercontent.com/75658978/124639360-b1472080-dea9-11eb-94f3-0a7bf8d39bfe.png)
 
 <br />
-<h1>***Video Product***</h1>
-[![E-commerce-Admin-](https://img.youtube.com/vi/lIQUD-kU6dA/0.jpg)](https://www.youtube.com/watch?v=lIQUD-kU6dA)
-
 ## Video Of Application 
 
-[![Watch the video](https://user-images.githubusercontent.com/lIQUD-kU6dA.png)](https://youtu.be/lIQUD-kU6dA)
+[![Watch the video](https://user-images.githubusercontent.com/75658978/124638831-0f273880-dea9-11eb-8011-def0bbf31fe0.png)](https://youtu.be/lIQUD-kU6dA)
