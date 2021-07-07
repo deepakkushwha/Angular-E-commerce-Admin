@@ -39,3 +39,7 @@
 <br />
 <h1>***Video Product***</h1>
 [![E-commerce-Admin-](https://img.youtube.com/vi/lIQUD-kU6dA/0.jpg)](https://www.youtube.com/watch?v=lIQUD-kU6dA)
+
+## Video Of Application 
+
+[![Watch the video](https://user-images.githubusercontent.com/47188858/110432207-d6cb4580-80d4-11eb-8023-6758f3eef19e.png)](https://youtu.be/lIQUD-kU6dA)
