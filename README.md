@@ -36,3 +36,6 @@
 <br />
 ![update](https://user-images.githubusercontent.com/75658978/124639360-b1472080-dea9-11eb-94f3-0a7bf8d39bfe.png)
 
+<br />
+<h1>***Video Product***</h1>
+[![E-commerce-Admin-](https://img.youtube.com/vi/lIQUD-kU6dA)](https://ww.youtube.com/watch?v=lIQUD-kU6dA)
